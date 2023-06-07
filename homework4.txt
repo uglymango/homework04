@@ -5,3 +5,5 @@ whatever
 i made myself coffee
 
 yes
+
+git is fine
